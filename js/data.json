@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "city": "bogota",
+            "log": "-74.072092",
+            "lat": "4.7109886",
+            "concessionaires": [
+                {
+                    "id": 1,
+                    "name": "Rafaelo Motos",
+                    "lat": "4.7109886",
+                    "log": "-74.072092",
+                    "color": "#1ed760",
+                    "address": "Cra. 43 # 173 - 98 Piso 2",
+                    "open_hour": "8",
+                    "close_hour": "21",
+                    "times_daily": "L-V 8am a 9pm",
+                    "times_weekend": "S-D 9am a 5pm",
+                    "phone": "+57 311 111 1111",
+                    "brand": [
+                        {
+                            "id": 1,
+                            "name": "CF Motos"
+                        },
+                        {
+                            "id": 2,
+                            "name": "AKT"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Carlos Motos",
+                    "lat": "4.567448",
+                    "log": "-74.127314",
+                    "color": "#525dea",
+                    "address": "Cra. 43 # 173 - 98 Piso 2",
+                    "open_daily": "8",
+                    "close_daily": "21",
+                    "open_weekend": "9",
+                    "close_weekend": "17",
+                    "times_daily": "L-V 8am a 9pm",
+                    "times_weekend": "S-D 9am a 5pm",
+                    "phone": "+57 311 111 1111",
+                    "brand": [
+                        {
+                            "id": 3,
+                            "name": "Benelli"
+                        },
+                        {
+                            "id": 1,
+                            "name": "CF Motos"
+                        },
+                        {
+                            "id": 4,
+                            "name": "KTM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "city": "cali",
+            "log": "-76.521572",
+            "lat": "3.419447",
+            "concessionaires": [
+                {
+                    "id": 3,
+                    "name": "TEST",
+                    "lat": "3.409959",
+                    "log": "-76.521384",
+                    "color": "#209be3",
+                    "address": "Cra. 43 # 173 - 98 Piso 2",
+                    "open_daily": "8",
+                    "close_daily": "21",
+                    "open_weekend": "9",
+                    "close_weekend": "17",
+                    "times_daily": "L-V 8am a 9pm",
+                    "times_weekend": "S-D 9am a 5pm",
+                    "phone": "+57 311 111 1111",
+                    "brand": [
+                        {
+                            "id": 5,
+                            "name": "Yamaha"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Suzuki"
+                        },
+                        {
+                            "id": 4,
+                            "name": "KTM"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "TEST Cali",
+                    "lat": "3.409000",
+                    "log": "-76.524854",
+                    "color": "#a09bdf",
+                    "address": "Cra. 43 # 173 - 98 Piso 2",
+                    "open_daily": "8",
+                    "close_daily": "21",
+                    "open_weekend": "9",
+                    "close_weekend": "17",
+                    "times_daily": "L-V 8am a 9pm",
+                    "times_weekend": "S-D 9am a 5pm",
+                    "phone": "+57 311 111 1111",
+                    "brand": [
+                        {
+                            "id": 2,
+                            "name": "AKT"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Benelli"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Honda"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
